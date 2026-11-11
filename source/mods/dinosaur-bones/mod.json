@@ -1,0 +1,14 @@
+{
+  "id": "dinosaur-bones",
+  "kind": "native",
+  "version": "0.2.0",
+  "backlog": "M03",
+  "feature_dependencies": [],
+  "gameplay": true,
+  "hotkey": "Ctrl+Shift+F3",
+  "display_name": "Dinosaur Bone Discoveries",
+  "play_help": [
+    "Dinosaur Bone Discoveries 0.2.0 \u2014 find four fossil sites, including the supplied textured skull.",
+    "Implementation only; gameplay testing is deferred. Use a disposable world."
+  ]
+}
