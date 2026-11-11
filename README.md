@@ -1,5 +1,7 @@
 # Dinosaur Bone Discoveries
 
+<img src="media/icon.png" alt="Dinosaur Bone Discoveries icon" width="128" height="128">
+
 Find four fossil sites, including the supplied textured raptor skull.
 
 ## Install
