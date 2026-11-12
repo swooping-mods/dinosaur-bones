@@ -1,2 +1,15 @@
-Small Loop Works: mod and shared adapter code.
-Moon Sweepers: DragDrop Games.
+User-supplied local dinosaur skull asset, selected 2026-11-10.
+Archive: tripo_convert_fe6995cc-6f3a-4fd4-9214-2b79e789e28d.zip
+Archive SHA-256: 341d4cc7ba2eaa42e033851999abe78f3d6b880dbf4d54791a2d4a10c4b36c73
+FBX SHA-256: 0597b7eb85da9625ee214ccc735c355ba19dbdf8afa261458a0f8adef9ca31c5
+Tripo conversion with bundled 2048px color, normal, roughness and metallic maps.
+No independent public redistribution license was supplied. Raw and generated
+mesh/texture/package bytes remain private and ignored for local integration.
+
+First-party conversion retains the triangulated FBX surface and UV seams,
+copies the source color JPEG exactly, converts the full-resolution normal green
+channel and packs source metallic into R / inverse roughness into A for Unity.
+Uniform length is 1.05 m. Only the existing skull fossil site uses this asset;
+femur, ribs and tail remain original procedural compositions.
+Installed Blender/NumPy/Pillow/F3D are tools, not bundled dependencies. No tool,
+model or package was downloaded. No game-owned assets are copied.

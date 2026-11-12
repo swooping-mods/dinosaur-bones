@@ -8,7 +8,7 @@
   "hotkey": "Ctrl+Shift+F3",
   "display_name": "Dinosaur Bone Discoveries",
   "play_help": [
-    "Dinosaur Bone Discoveries 0.2.0 \u2014 find four fossil sites, including the supplied textured skull.",
+    "Dinosaur Bone Discoveries 0.2.0 — find four fossil sites, including the supplied textured skull.",
     "Implementation only; gameplay testing is deferred. Use a disposable world."
   ]
 }
